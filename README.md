@@ -1,4 +1,4 @@
-# videopredictver2
+# Video Prediction using SimVP
 
 This repo using dataset MovingMnist, TaxiBJ and model SimVP và SimVPv2
 
