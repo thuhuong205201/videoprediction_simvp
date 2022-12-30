@@ -42,21 +42,6 @@ We provide a [Dropbox](https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPN
 We provide a [Dropbox](https://www.dropbox.com/sh/8d3uwyp4jru0yih/AABP-nXlN6eHW2xOrkfCn7Woa?dl=0) to download the KTH dataset.
 
 
-## Citation
 
-If you are interested in our repository and our paper, please cite the following paper:
 
-```
-@InProceedings{Gao_2022_CVPR,
-    author    = {Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.},
-    title     = {SimVP: Simpler Yet Better Video Prediction},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2022},
-    pages     = {3170-3180}
-}
-```
 
-## Contact
-
-If you have any questions, feel free to contact us through email (tancheng@westlake.edu.cn, gaozhangyang@westlake.edu.cn). Enjoy!
