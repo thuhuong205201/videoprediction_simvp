@@ -1,16 +1,3 @@
-# SimVP: Simpler yet Better Video Prediction
-![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction?color=green) 
-
-**In the example, the default epoch is 50. Please read our paper, and train 1000~2000 epochs for repruducing this work!** I will not respond to such a lowly mistake.
-
-**SimVPv2 is available on https://github.com/chengtan9907/SimVPv2, which performs better than SimVP and is in the review process.** If our work is helpful for your research, we would hope you give us a star and citation. Thanks!
-
-This repository contains the implementation code for paper:
-
-**SimVP: Simpler yet Better Video Prediction**  
-[Zhangyang Gao](https://westlake-drug-discovery.github.io/zhangyang_gao.html), [Cheng Tan](https://westlake-drug-discovery.github.io/cheng_tan.html), [Lirong Wu](https://lirongwu.github.io/), [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl). In [CVPR](), 2022.
-## Introduction
-
 <p align="center">
     <img src="./readme_figures/overall_framework.png" width="600"> <br>
 </p>
